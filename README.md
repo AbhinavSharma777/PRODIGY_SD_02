@@ -1,0 +1,1 @@
+This is a simple Number Guessing Game based on Core Java. It generates a random number and challenges the user to guess it until the user guesses it correctly. It will also display the total number of guesses the user takes to guess the number untill the end.
